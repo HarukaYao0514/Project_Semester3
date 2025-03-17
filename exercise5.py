@@ -8,4 +8,4 @@ else:
 		result *= number        
 		number -= 1    
     
-print(f"The factorial of the given number is {result}.")
+	print(f"The factorial of the given number is {result}.")
